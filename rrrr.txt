@@ -1,0 +1,5 @@
+void main()
+{
+	unsigned char s[10]={0};
+	unsigned int a[1]={0};
+}
